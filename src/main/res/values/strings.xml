@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="StartText">Hi! Try to pass this quiz! Just press "Start"!</string>
+    <string name="startButton">Start</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nextButtonText">Next</string>
+    <string name="congrats">"Congratulations!!! You passed this quiz! Your score is: "</string>
+    <string name="replayButton">Try again</string>
+    <string name="loseText">"Sorry, you didn't pass this quiz. You score is: "</string>
+</resources>
